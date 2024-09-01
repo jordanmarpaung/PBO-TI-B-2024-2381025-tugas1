@@ -12,7 +12,9 @@ public class MembuatVariable {
 
         String fullName;
         fullName = "Jordan Marpaung";
-        final double PHIVALUE = 3.14;
+
+        final double PHI_VALUE = 3.14;
+        System.out.println(PHI_VALUE);
 
 
     }
